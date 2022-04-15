@@ -14,6 +14,7 @@ public class idea001 {
         System.out.printf( "hello git");
         System.out.printf( "hello git111");
         System.out.printf( "hello master-test");
+        System.out.printf( "hello hot-fix");
     }
 
 }
