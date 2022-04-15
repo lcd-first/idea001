@@ -10,6 +10,8 @@
 public class idea001 {
     public static void main(String[] args) {
         System.out.printf( "hello git");
+        System.out.printf( "hello git");
+        System.out.printf( "hello git");
     }
 
 }
